@@ -1,0 +1,45 @@
+
+Intelligent Machinery
+A. M. Turing [1912-1954]
+Abstract
+The possible ways in which machinery might be made to show intelligent behaviour are discussed. The analogy with the human brain is used as a guiding principle. It is pointed out that the potentialities of the human intelligence can only be realized if suitable education is provided. The investigation mainly centres round an analogous teaching process applied to machines. The idea of an unorganized machine is defined, and it is suggested that the infant human cortex is of this nature. Simple examples of such machines are given, and their education by means of rewards and punish- ments is discussed. In one case the education process is carried through until the organization is similar to that of an ACE.
+I propose to investigate the question as to whether it is possible for mach- inery to show intelligent behaviour. It is usually assumed without argument that it is not possible. Common catch phrases such as 'acting like a machine', 'purely mechanical behaviour' reveal this common attitude. It is not diffi- cult to see why such an attitude should have arisen. Some of the reasons
+are:
+(a) An unwillingness to admit the possibility that mankind can have any rivals in intellectual power. This occurs as much amongst intellectual people as amongst others: they have more to lose. Those who admit the possibility all agree that its realization would be very disagreeable. The same situation arises in connection with the possibility of our being superseded by some other animal species. This is almost as disagreeable and its theoretical possibility is indisputable.
+(b) A religious belief that any attempt to construct such machines is a sort of Promethean irreverence.
+(c) The very limited character of the machinery which has been used until recent times (e.g. up to 1940). This encouraged the belief that machinery was necessarily limited to extremely straightforward, possibly even to repeti- tive, jobs. This attitude is very well expressed by Dorothy Sayers (The Mind of the Maker p. 46)... which imagines that God, having created his Universe, has now screwed the cap on His pen, put His feet on the 3
+[107]
+
+[1]
+E
+PROLOGUE
+mantelpiece and left the work to get on with itself." This, however, rather comes into St Augustine's category of figures of speech or enigmatic sayings framed from things which do not exist at all. We simply do not know of any creation which goes on creating itself in variety when the creator has withdrawn from it. The idea is that God simply created a vast machine and has left it working until it runs down from lack of fuel. This is another of those obscure analogies, since we have no experience of machines that produce variety of their own accord; the nature of a machine is to 'do the same thing over and over again so long as it keeps going'. (d) Recently the theorem of Gödel and related results (Gödel 1931, Church 1936, Turing 1937) have shown that if one tries to use machines for such purposes as determining the truth or falsity of mathematical theorems and one is not willing to tolerate an occasional wrong result, then any given machine will in some cases be unable to give an answer at all. On the other hand the human intelligence seems to be able to find methods of ever-increasing power for dealing with such problems 'trans- cending' the methods available to machines.
+(e) In so far as a machine can show intelligence this is to be regarded as nothing but a reflection of the intelligence of its creator.
+REFUTATION OF SOME OBJECTIONS
+In this section I propose to outline reasons why we do not need to be influenced by the above-described objections. The objections (a) and (b), being purely emotional, do not really need to be refuted. If one feels it necessary to refute them there is little to be said that could hope to prevail, though the actual production of the machines would probably have some effect. In so far then as we are influenced by such arguments we are bound to be left feeling rather uneasy about the whole project, at any rate for the present. These arguments cannot be wholly ignored, because the idea of 'intelligence' is itself emotional rather than mathematical.
+The objection (c) in its crudest form is refuted at once by the actual existence of machinery (ENIAC etc.) which can go on through immense. numbers (e.g. 100.000 about for ACE) of operations without repetition, assuming no breakdown. The more subtle forms of this objection will be considered at length on pages 18-22.
+The argument from Gödel's and other theorems (objection d) rests essentially on the condition that the machine must not make mistakes. But this is not a requirement for intelligence. It is related that the infant Gauss was asked at school to do the addition 15+18+21+...+54 (or something of the kind) and that he immediately wrote down 483, presumably having [2] calculated it as (15+54) (54-12)/2.3. One can imagine circumstances
+where a foolish master told the child that he ought instead to have added 18 to 15 obtaining 33, then added 21, etc. From some points of view this would be a 'mistake', in spite of the obvious intelligence involved. One can also
+4
+[108]
+
+TURING
+imagine a situation where the children were given a number of additions to do, of which the first 5 were all arithmetic progressions, but the 6th was say 23+34 +45 +...+100+112+122+...+199. Gauss might have given the answer to this as if it were an arithmetic progression, not having noticed that the 9th term was 112 instead of 111. This would be a definite mistake, which the less intelligent children would not have been likely to make.
+The view (d) that intelligence in machinery is merely a reflection of that of its creator is rather similar to the view that the credit for the discoveries of a pupil should be given to his teacher. In such a case the teacher would be pleased with the success of his methods of education, but would not claim the results themselves unless he had actually communicated them to his pupil. He would certainly have envisaged in very broad outline the sort of thing his pupil might be expected to do, but would not expect to foresee any sort of detail. It is already possible to produce machines where this sort of situation arises in a small degree. One can produce 'paper machines' for [3] playing chess. Playing against such a machine gives a definite feeling that one is pitting one's wits against something alive.
+These views will all be developed more completely below.
+VARIETIES OF MACHINERY
+It will not be possible to discuss possible means of producing intelligent machinery without introducing a number of technical terms to describe different kinds of existent machinery.
+'Discrete' and 'continuous' machinery. We may call a machine 'discrete' when it is natural to describe its possible states as a discrete set, the motion of the machine occurring by jumping from one state to another. The states of 'continuous' machinery on the other hand form a continuous manifold, and the behaviour of the machine is described by a curve on this manifold. All machinery can be regarded as continuous, but when it is possible to regard it as discrete it is usually best to do so. The states of discrete machinery will be described as 'configurations".
+'Controlling and 'active' machinery. Machinery may be described as 'con- trolling' if it only deals with information. In practice this condition is much the same as saying that the magnitude of the machine's effects may be as small as we please, so long as we do not introduce confusion through Brownian movement, etc. 'Active' machinery is intended to produce some definite physical effect.
+Examples
+A Bulldozer
+A Telephone
+A Brunsviga
+A Brain (probably)
+Continuous Active
+Continuous Controlling
+Discrete Controlling
+Continuous Controlling, but is very similar to much discrete machinery
+[4]
+5
+[109]
